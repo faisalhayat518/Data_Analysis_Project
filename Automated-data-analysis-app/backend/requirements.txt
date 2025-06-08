@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+pandas
+openpyxl
+mysql-connector-python
+python-multipart
+scikit-learn
+matplotlib
+seaborn
+prophet
+weasyprint
+xlsxwriter
+reportlab
